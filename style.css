@@ -1,0 +1,42 @@
+
+img{
+    width: 9%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-image: url(pic/Mon\ projet.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: 50% ;
+}
+.navbar{
+   opacity: 0.6;
+}
+#search{
+   margin-left: 30%;
+   margin-top: 2%;
+   width: 20%;
+   opacity: 0.6;
+   border: none;
+}
+h1{
+    font-size: 4em;
+    margin-left: 8%;
+    margin-top: 8%;
+    font-family: 'Indie Flower', cursive;
+    color:rgb(210, 213, 21);
+
+}
+#cards{
+   display: flex;
+   justify-content: space-around;
+  margin-top: 10%;
+
+}
+#page{
+    margin-top: 10%;
+    margin-left: 39%;
+}

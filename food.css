@@ -1,0 +1,27 @@
+img{
+    width: 9%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+body{
+    background-image: url(pic/back1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+   opacity: 0.5;
+}
+#cards{
+    margin-top: 10%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+select{
+    width: 15%;
+    margin-top: 5%;
+    margin-left: 22%;
+}
